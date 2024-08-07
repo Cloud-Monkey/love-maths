@@ -153,6 +153,9 @@ function displayMultiplyQuestion(operand1, operand2) {
 
 }
 
+/**
+ * functions below all relate to proper behaviour and display of the different game types
+ */
 function displayDivisionQuestion(operand1, operand2) {
 
     operand1 = operand1 * operand2;
