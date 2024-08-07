@@ -132,7 +132,7 @@ function displayAdditionQuestion(operand1, operand2) {
 }
 
 /**
- * functions below all relate to proper behaviour and display of the different game types
+ * displays subtract question two operands and an operator for the subtraction game
  */
 function displaySubtractQuestion(operand1, operand2) {
 
