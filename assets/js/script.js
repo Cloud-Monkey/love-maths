@@ -142,6 +142,9 @@ function displaySubtractQuestion(operand1, operand2) {
 
 }
 
+/**
+ * functions below all relate to proper behaviour and display of the different game types
+ */
 function displayMultiplyQuestion(operand1, operand2) {
 
     document.getElementById('operand1').textContent = operand1;
