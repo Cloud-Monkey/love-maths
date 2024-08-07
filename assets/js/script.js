@@ -154,7 +154,7 @@ function displayMultiplyQuestion(operand1, operand2) {
 }
 
 /**
- * functions below all relate to proper behaviour and display of the different game types
+ * displays division question two operands and an operator for the division game, ensures first number is always larger
  */
 function displayDivisionQuestion(operand1, operand2) {
 
