@@ -121,7 +121,7 @@ function incrementWrongAnswer() {
 }
 
 /**
- * functions below all relate to proper behaviour and display of the different game types
+ * displays addition question two operands and an operator for the addition game
  */
 function displayAdditionQuestion(operand1, operand2) {
 
